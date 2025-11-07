@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmDimtyRemo=",
+  "success": true,
+  "projectFilePath": "C:\\HASLA\\C#\\C#projects\\C#_Training\\InnoClinic\\Services\\InnoClinic.Services.Patients\\InnoClinic.Services.Patients.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\farha\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
